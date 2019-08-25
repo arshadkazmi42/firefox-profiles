@@ -1,7 +1,5 @@
 # firefox-profiles
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/firefox-profiles.svg)](https://travis-ci.com/arshadkazmi42/firefox-profiles/)
-
 Get all firefox profile details
 
 ## Install
