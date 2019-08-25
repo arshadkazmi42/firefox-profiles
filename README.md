@@ -16,11 +16,17 @@ npm i firefox-profiles
 
 const firefoxProfiles = require('firefox-profiles');
 
-const path = firefoxUserDirectory('darwin');
-console.log(path);
+const profiles = firefoxProfiles('darwin');
+console.log(profiles);
 
 // Output
-// /Users/arshad/Library/Application Support/Firefox
+// [ 
+//   { 
+//     Name: 'ffire17.xx.xx-x.xx.xx',
+//     IsRelative: '1',
+//     Path: 'Profiles/y1iixeh7.ffire17.xx.xx-x.xx.xx' 
+//   }
+// ]
 
 ```
 
