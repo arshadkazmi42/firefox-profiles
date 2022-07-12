@@ -1,5 +1,14 @@
 # firefox-profiles
 
+[![Build](https://github.com/arshadkazmi42/firefox-profiles/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/firefox-profiles/actions/workflows/nodejs.yml)
+[![NPM Version](https://img.shields.io/npm/v/firefox-profiles.svg)](https://www.npmjs.com/package/firefox-profiles)
+[![NPM Downloads](https://img.shields.io/npm/dt/firefox-profiles.svg)](https://www.npmjs.com/package/firefox-profiles)
+[![Github Repo Size](https://img.shields.io/github/repo-size/arshadkazmi42/firefox-profiles.svg)](https://github.com/arshadkazmi42/firefox-profiles)
+[![LICENSE](https://img.shields.io/npm/l/firefox-profiles.svg)](https://github.com/arshadkazmi42/firefox-profiles/blob/master/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/arshadkazmi42/firefox-profiles.svg)](https://github.com/arshadkazmi42/firefox-profiles/graphs/contributors)
+[![Commit](https://img.shields.io/github/last-commit/arshadkazmi42/firefox-profiles.svg)](https://github.com/arshadkazmi42/firefox-profiles/commits/master)
+
+
 Get all firefox profile details
 
 ## Install
