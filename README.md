@@ -14,6 +14,7 @@ npm i firefox-profiles
 
 const firefoxProfiles = require('firefox-profiles');
 
+// For mac
 const profiles = firefoxProfiles('darwin');
 console.log(profiles);
 
@@ -26,6 +27,11 @@ console.log(profiles);
 //   }
 // ]
 
+// For Linux
+const profiles = firefoxProfiles('linux');
+
+// For windows
+const profiles = firefoxProfiles('win32');
 ```
 
 ## Contributing
